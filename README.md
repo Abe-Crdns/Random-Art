@@ -1,6 +1,6 @@
 # Random-Art
 A small assignment I did when I first learned C++. The program generates 
-greyscale and colored images by setting rgb values according to various math expressions.
+greyscale and colored images by applying math expressions to rgb values.
 See the main directory for my implementation. 
 
 ## Requirements
