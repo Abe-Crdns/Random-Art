@@ -1,7 +1,7 @@
-EXECBIN 	:= rand_art
-CC 				:= g++
-CCFLAGS 	:= -I/opt/X11/include
-LD 				:= g++
+EXECBIN   := rand_art
+CC 	  := g++
+CCFLAGS   := -I/opt/X11/include
+LD 	  := g++
 LDFLAGS   := -L/opt/X11/lib -lX11
 
 MODULES   := lpc_lib/private lpc_lib expression helper ytab yylex main
